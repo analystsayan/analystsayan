@@ -1,4 +1,3 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Sayan Mondal</h1>
 <h3 align="center">A passionate hardworking student</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif"
