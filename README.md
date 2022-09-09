@@ -1,4 +1,4 @@
-<img src="https://opengraph.githubassets.com/ee127538c56496b1c4f9e423b9da839dcb87b96e07d3d5fc48268b257926ec5b/orgs/community/discussions/2871">
+<img src="https://https://pratikjagrut.dev/img/git/github.png">
 <h1 align="center">Hi 👋, I'm Sayan Mondal</h1>
 <h3 align="center">A passionate hardworking student</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif"
