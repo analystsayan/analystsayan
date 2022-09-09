@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently studing **B.Sc in IT (Data Science)**
 
-- 🌱 I’m currently learning **python,mysql**
+- 🌱 I’m currently learning **Python,Mysql**
 
-- 👯 I’m looking to collaborate on **small python project**
+- 👯 I’m looking to collaborate on **small Python project**
 
-- 🤝 I’m looking for help with **deep knowledge of python**
+- 🤝 I’m looking for help with **Deep Learning**
 
 - 💬 Ask me about **android**
 
