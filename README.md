@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/mondalsayan7" target="blank"><img src="https://img.shields.io/twitter/follow/mondalsayan7?logo=twitter&style=for-the-badge" alt="mondalsayan7" /></a> </p>
 
-- 🔭 I’m currently studing **B.Sc in IT (Data Science)**
+- 🔭 Compleated **B.Sc in IT (Data Science)**
 
 - 🌱 I’m currently learning **Python,Mysql**
 
-- 👯 I’m looking to collaborate on **small Python project**
+- 👯 I’m looking to collaborate on **small Python project, Sql project, Excel project**
 
-- 🤝 I’m looking for help with **Deep Learning**
+- 🤝 I’m looking for help with **machine learning**
 
 - 💬 Ask me about **android**
 
-- 📫 How to reach me **captainsayan7550@gmail.com**
+- 📫 How to reach me **analystsayan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
