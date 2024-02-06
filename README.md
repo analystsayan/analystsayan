@@ -20,15 +20,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mondalsayan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mondalsayan7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mondalsayan75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://kaggle.com/mondalsayan75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://instagram.com/shanshinephotography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanshinephotography" height="30" width="40" /></a>
-<a href="https://medium.com/mondalsayan75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mondalsayan75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mondalsayan75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mondalsayan75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mondalsayan75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mondalsayan75" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mondalsayan75" height="30" width="40" /></a>
+<a href="https://kaggle.com/analystsayan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mondalsayan75" height="30" width="40" /></a>
+<a href="https://instagram.com/analyst.sayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanshinephotography" height="30" width="40" /></a>
+<a href="https://medium.com/@analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mondalsayan75" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/analystsayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mondalsayan75" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mondalsayan75" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mondalsayan75" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
