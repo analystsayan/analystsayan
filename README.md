@@ -1,33 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sayan Mondal</h1>
-<h3 align="center">Looking For Opportunity as Web Developer </h3>
+<h1 align="center">Namaste🙏, Sayan here</h1>
+<h3 align="center">Your web-dev co-pilot</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mondalsayan75&label=Profile%20views&color=0e75b6&style=flat" alt="mondalsayan75" /> </p>
 
-- 🔭 Compleated **B.Sc in IT (Data Science)**
 
-- 🌱 I’m currently learning **Python,Mysql**
+- 🌱 Working on **collab projects**
 
-- 👯 I’m looking to collaborate on **small Python project, Sql project, Excel project**
+- 👯 Looking to collaborate on **web-dev project with SQL, Node.JS like tech**
 
-- 🤝 I’m looking for help with **machine learning**
+- 🤝 I’m looking for help with **Backend Dev**
 
-- 💬 Ask me about **Data Analysis**
+- 📫 Contact me **analystsayan1@gmail.com**
 
-- 📫 How to reach me **analystsayan1@gmail.com**
+<h3 align="left">Check Out My Portfolio Website:</h3>
+<p><a href="https://sayanmondal.in">sayanmondal.in</a></p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://kaggle.com/analystsayan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://instagram.com/analyst.sayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanshinephotography" height="30" width="40" /></a>
-<a href="https://medium.com/@analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/analystsayan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mondalsayan75" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mondalsayan75" height="30" width="40" /></a>
-</p>
+<p align="left"><a href="https://linkedin.com/in/analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mondalsayan75" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analystsayan&" alt="analystsayan" /></p>
+<p align="left">
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="HTML" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/393/49/png-transparent-css-logo-thumbnail.png" alt="CSS" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0UW_O0gs4k9ouIuG7etvUcN1dsZ__XIZFpg&s" alt="Java Script" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87POe8QSg2l-6Rwpd8-lVODv9ioMRHKw3tA&s" alt="Tailwind" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" alt="Bootstrap" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C4E12AQE8H4La4xDwPg/article-cover_image-shrink_600_2000/0/1592116201349?e=2147483647&v=beta&t=wCyoeKbScE_7d9bXwS0STpXiBgQhADhA2E4HHhmOHwM" alt="Git Github" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKkaITGWhzPXAvR4Z1VN7t1D5HVGT6S8EUg&s" alt="Python" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" alt="My Sql" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" alt="Mongo DB" width="40" height="40"/> </a> </p>
