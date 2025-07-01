@@ -1,8 +1,8 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/s0ul141/s0ul141/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/analystsayan/analystsayan/blob/output/github-snake-dark.svg">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sayan+Mondal;Data+Analyst;Visual+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sayan+Mondal;Data+Analyst" alt="Typing SVG" />
 </p>
 
 <h5>Transforming raw data into powerful insights 📈</h5>
@@ -14,8 +14,7 @@
 🎓 IT Engineer specialized in **Data Science**  
 🔍 I help convert raw data into clear, actionable insights  
 📊 Skilled in **Python**, **Pandas**, **SQL**, **Power BI**, and **Excel**  
-📈 Passionate about turning numbers into visual stories and smart decisions  
-📸 Also a visual thinker — check out my [photography](https://instagram.com/sayan.photopedia)  
+📈 Passionate about turning numbers into visual stories and smart decisions   
 🎯 Always curious, always exploring — open to **Data Analyst opportunities**
 
 ---
@@ -37,19 +36,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/analystsayan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:4px"/>
   </a>
   <a href="https://www.kaggle.com/analystsayan" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="border-radius:4px"/>
   </a>
   <a href="https://stackoverflow.com/users/29137444/analyst-sayan" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" style="border-radius:4px"/>
   </a>
   <a href="https://medium.com/@analystsayan" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border-radius:4px"/>
   </a>
   <a href="https://www.reddit.com/user/AnalystSayan/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" style="border-radius:4px"/>
   </a>
 </p>
 
