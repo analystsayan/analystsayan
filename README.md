@@ -1,25 +1,26 @@
 <!-- Banner -->
-<h1 align="center">Hi there 👋, I'm Sayan Mondal</h1>
+<img src="https://raw.githubusercontent.com/s0ul141/s0ul141/output/github-contribution-grid-snake-dark.svg">
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Visual+Thinker+%7C+Problem+Solver;Transforming+raw+data+into+powerful+insights+%F0%9F%93%88;Bringing+clarity+to+complex+data+%F0%9F%92%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sayan+Mondal;Data+Analyst;Visual+Thinker" alt="Typing SVG" />
 </p>
 
-
-<h3 align="center">📊 Turning Raw Data into Real Impact</h3>
-
----
-
-## 🧠 About Me
-
-🎓 IT Engineer with a focus on **Data Science**  
-🧪 Passionate about **data analysis**, **visual storytelling**, and **automating insights**  
-🚀 Currently exploring **Web Development** & **AI tools for productivity**  
-🎯 Seeking **Data Analyst** roles to contribute to impactful, data-driven decisions  
-📷 Photographer in spare time → [@sayanpixelography](https://instagram.com/sayanpixelography)
+<h5>Transforming raw data into powerful insights 📈</h5>
 
 ---
 
-## 🛠 My Toolkit
+### 🧠 About Me
+
+🎓 IT Engineer specialized in **Data Science**  
+🔍 I help convert raw data into clear, actionable insights  
+📊 Skilled in **Python**, **Pandas**, **SQL**, **Power BI**, and **Excel**  
+📈 Passionate about turning numbers into visual stories and smart decisions  
+📸 Also a visual thinker — check out my [photography](https://instagram.com/sayan.photopedia)  
+🎯 Always curious, always exploring — open to **Data Analyst opportunities**
+
+---
+
+### 🛠 My Toolkit
 
 | Tools / Languages | What I Use It For |
 |-------------------|-------------------|
@@ -32,7 +33,7 @@
 
 ---
 
-## 🌍 Connect with Me
+### 🌍 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/analystsayan/" target="_blank">
@@ -55,26 +56,34 @@
 
 ---
 
-## 📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=analystsayan&show_icons=true&theme=radical&hide_border=true&count_private=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=analystsayan&theme=radical&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analystsayan&layout=compact&theme=radical&title_color=20C20E&text_color=ffffff" width="90%" style="border:2px solid white; border-radius:14px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=analystsayan&theme=react-dark&area=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=analystsayan&show_icons=true&hide_border=true&count_private=true&theme=radical&title_color=20C20E&text_color=ffffff&icon_color=20C20E" width="90%" style="border:2px solid white; border-radius:14px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=analystsayan&theme=radical&hide_border=true&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&sideNums=ffffff&sideLabels=ffffff" width="90%" style="border-radius:10px"/>
+</p>
+
+
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=analystsayan&theme=react-dark&area=true&hide_border=true" width="100%" style="border-radius:10px"/>
+</p> -->
 
 ---
 
-## 🧭 My Philosophy
+### 🧭 My Philosophy
 
 > “Data is not just numbers — it’s insight, it’s clarity, it’s opportunity.”
 
 ---
 
-### 📬 Contact Me
+#### 📬 Contact Me
 
 If you want to work together, ask a question, or just say hi — feel free to reach out!
 
