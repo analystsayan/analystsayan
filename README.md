@@ -69,9 +69,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=analystsayan&theme=react-dark&area=true&hide_border=true" width="100%" style="border-radius:10px"/>
 </p> -->
 
-
-<h2 align="center">My Philosophy</h2>
-
 > “Data is not just numbers — it’s insight, it’s clarity, it’s opportunity.”
 
 
