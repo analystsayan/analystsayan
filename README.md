@@ -7,9 +7,9 @@
 
 <h5>Transforming raw data into powerful insights 📈</h5>
 
----
+<h3 align="center">About Me</h3>
 
-### 🧠 About Me
+---
 
 🎓 IT Engineer specialized in **Data Science**  
 🔍 I help convert raw data into clear, actionable insights  
@@ -17,9 +17,9 @@
 📈 Passionate about turning numbers into visual stories and smart decisions   
 🎯 Always curious, always exploring — open to **Data Analyst opportunities**
 
----
+<h3 align="center">My Toolkit</h3>
 
-### 🛠 My Toolkit
+---
 
 | Tools / Languages | What I Use It For |
 |-------------------|-------------------|
@@ -30,9 +30,10 @@
 | ![SQL](https://img.shields.io/badge/-SQL-1f425f?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1) | Data Extraction |
 | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-1f425f?style=for-the-badge&logo=matplotlib&logoColor=white&color=3C4E78) | Data Visualization |
 
----
 
-### 🌍 Connect with Me
+<h3 align="center">Connect With Me</h3>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/analystsayan/" target="_blank">
@@ -53,20 +54,20 @@
 </p>
 
 
+<h3 align="center">Github Stats</h3>
+
 ---
 
-### 📈 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analystsayan&layout=compact&theme=radical&title_color=20C20E&text_color=ffffff" width="90%" style="border:2px solid white; border-radius:14px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analystsayan&layout=compact&theme=radical&title_color=20C20E&text_color=ffffff" style="border:2px solid white; border-radius:14px"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=analystsayan&show_icons=true&hide_border=true&count_private=true&theme=radical&title_color=20C20E&text_color=ffffff&icon_color=20C20E" width="90%" style="border:2px solid white; border-radius:14px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=analystsayan&show_icons=true&hide_border=true&count_private=true&theme=radical&title_color=20C20E&text_color=ffffff&icon_color=20C20E" style="border:2px solid white; border-radius:14px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=analystsayan&theme=radical&hide_border=true&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&sideNums=ffffff&sideLabels=ffffff" width="90%" style="border-radius:10px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=analystsayan&theme=radical&hide_border=true&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&sideNums=ffffff&sideLabels=ffffff" style="border-radius:10px"/>
 </p>
 
 
@@ -74,15 +75,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=analystsayan&theme=react-dark&area=true&hide_border=true" width="100%" style="border-radius:10px"/>
 </p> -->
 
----
+<h3 align="center">My Philosophy</h3>
 
-### 🧭 My Philosophy
+---
 
 > “Data is not just numbers — it’s insight, it’s clarity, it’s opportunity.”
 
----
+<h3 align="center">Contact Me</h3>
 
-#### 📬 Contact Me
+---
 
 If you want to work together, ask a question, or just say hi — feel free to reach out!
 
