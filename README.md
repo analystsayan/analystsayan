@@ -7,9 +7,8 @@
 
 <p align="center">Transforming raw data into powerful insights 📈</p>
 
-<h2 align="center">About Me</h2>
 
----
+<h2 align="center">About Me</h2>
 
 🎓 IT Engineer specialized in **Data Science**  
 🔍 I help convert raw data into clear, actionable insights  
@@ -17,9 +16,8 @@
 📈 Passionate about turning numbers into visual stories and smart decisions   
 🎯 Always curious, always exploring — open to **Data Analyst opportunities**
 
-<h2 align="center">My Toolkit</h2>
 
----
+<h2 align="center">My Toolkit</h2>
 
 | Tools / Languages | What I Use It For |
 |-------------------|-------------------|
@@ -32,8 +30,6 @@
 
 
 <h2 align="center">Connect With Me</h2>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/analystsayan/" target="_blank">
@@ -56,8 +52,6 @@
 
 <h2 align="center">Github Stats</h2>
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analystsayan&layout=compact&theme=radical&title_color=20C20E&text_color=ffffff" style="border:2px solid white; border-radius:14px"/>
 </p>
@@ -75,20 +69,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=analystsayan&theme=react-dark&area=true&hide_border=true" width="100%" style="border-radius:10px"/>
 </p> -->
 
-<h2 align="center">My Philosophy</h2>
 
----
+<h2 align="center">My Philosophy</h2>
 
 > “Data is not just numbers — it’s insight, it’s clarity, it’s opportunity.”
 
-<h2 align="center">Contact Me</h2>
 
----
+<h2 align="center">Contact Me</h2>
 
 If you want to work together, ask a question, or just say hi — feel free to reach out!
 
 📧 Email: analystsayan1@gmail.com  
-📍 Based in Kolkata, India
+📍 Kolkata, India
 
 ---
 
