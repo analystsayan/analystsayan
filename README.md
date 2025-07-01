@@ -1,24 +1,86 @@
-<h1 align="center">Namaste🙏, Sayan here</h1>
-<h3 align="center">Your web-dev co-pilot</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif"
+<!-- Banner -->
+<h1 align="center">Hi there 👋, I'm Sayan Mondal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Visual+Thinker+%7C+Problem+Solver;Transforming+raw+data+into+powerful+insights+%F0%9F%93%88;Bringing+clarity+to+complex+data+%F0%9F%92%AF" alt="Typing SVG" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mondalsayan75&label=Profile%20views&color=0e75b6&style=flat" alt="mondalsayan75" /> </p>
+
+<h2 align="center">📊 Turning Raw Data into Real Impact</h2>
+
+---
+
+## 🧠 About Me
+
+🎓 IT Engineer with a focus on **Data Science**  
+🧪 Passionate about **data analysis**, **visual storytelling**, and **automating insights**  
+🚀 Currently exploring **Web Development** & **AI tools for productivity**  
+🎯 Seeking **Data Analyst** roles to contribute to impactful, data-driven decisions  
+📷 Photographer in spare time → [@sayanphotopedia](https://instagram.com/sayan.photopedia)
+
+---
+
+## 🛠 My Toolkit
+
+| Tools / Languages | What I Use It For |
+|-------------------|-------------------|
+| ![Python](https://img.shields.io/badge/-Python-1f425f?style=for-the-badge&logo=python&logoColor=white&color=3776AB) | Data Analysis, Automation |
+| ![Pandas](https://img.shields.io/badge/-Pandas-1f425f?style=for-the-badge&logo=pandas&logoColor=white&color=150458) | Data Wrangling |
+| ![Power BI](https://img.shields.io/badge/-PowerBI-1f425f?style=for-the-badge&logo=powerbi&logoColor=white&color=F2C811) | Dashboards & Reports |
+| ![Excel](https://img.shields.io/badge/-Excel-1f425f?style=for-the-badge&logo=microsoft-excel&logoColor=white&color=217346) | Financial Analysis |
+| ![SQL](https://img.shields.io/badge/-SQL-1f425f?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1) | Data Extraction |
+| ![Matplotlib](https://img.shields.io/badge/-Matplotlib-1f425f?style=for-the-badge&logo=matplotlib&logoColor=white&color=3C4E78) | Data Visualization |
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/analystsayan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/analystsayan" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://stackoverflow.com/users/29137444/analyst-sayan" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
+  </a>
+  <a href="https://medium.com/@analystsayan" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.reddit.com/user/AnalystSayan/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+</p>
 
 
-- 🌱 Working on **collab projects**
+---
 
-- 👯 Looking to collaborate on **web-dev project with SQL, Node.JS like tech**
+## 📈 My GitHub Stats
 
-- 🤝 I’m looking for help with **Backend Dev**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=analystsayan&show_icons=true&theme=radical&hide_border=true&count_private=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=analystsayan&theme=radical&hide_border=true" width="47%"/>
+</p>
 
-- 📫 Contact me **analystsayan1@gmail.com**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=analystsayan&theme=react-dark&area=true&hide_border=true" />
+</p>
 
-<h3 align="left">Check Out My Portfolio Website:</h3>
-<p><a href="https://sayanmondal.in">sayanmondal.in</a></p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/analystsayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sayan Mondal" height="30"  /></a></p>
+## 🧭 My Philosophy
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png" alt="HTML"  height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/393/49/png-transparent-css-logo-thumbnail.png" alt="CSS"  height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0UW_O0gs4k9ouIuG7etvUcN1dsZ__XIZFpg&s" alt="Java Script"  height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87POe8QSg2l-6Rwpd8-lVODv9ioMRHKw3tA&s" alt="Tailwind"  height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png" alt="Bootstrap"  height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C4E12AQE8H4La4xDwPg/article-cover_image-shrink_600_2000/0/1592116201349?e=2147483647&v=beta&t=wCyoeKbScE_7d9bXwS0STpXiBgQhADhA2E4HHhmOHwM" alt="Git Github"  height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJKkaITGWhzPXAvR4Z1VN7t1D5HVGT6S8EUg&s" alt="Python"  height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" alt="My Sql"  height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb.png" alt="Mongo DB"  height="40"/> </a> </p>
+> “Data is not just numbers — it’s insight, it’s clarity, it’s opportunity.”
+
+---
+
+### 📬 Contact Me
+
+If you want to work together, ask a question, or just say hi — feel free to reach out!
+
+📧 Email: analystsayan1@gmail.com  
+📍 Based in Kolkata, India
+
+---
+
+⭐ *Thanks for visiting my GitHub! Feel free to check out my repos and projects. Let’s connect and grow together.*
