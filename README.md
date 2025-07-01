@@ -2,7 +2,7 @@
 <img src="https://github.com/analystsayan/analystsayan/blob/output/github-snake-dark.svg">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=48&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sayan+Mondal;Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=52&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sayan+Mondal;Data+Analyst" alt="Typing SVG" />
 </p>
 
 <p align="center">Transforming raw data into powerful insights 📈</p>
