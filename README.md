@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/s0ul141/s0ul141/output/github-contribution-grid-snake-dark.svg">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sayan+Mondal;Data+Analyst;Visual+Thinker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sayan+Mondal;Data+Analyst;Visual+Thinker" alt="Typing SVG" />
 </p>
 
 <h5>Transforming raw data into powerful insights 📈</h5>
