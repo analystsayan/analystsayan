@@ -2,12 +2,12 @@
 <img src="https://github.com/analystsayan/analystsayan/blob/output/github-snake-dark.svg">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sayan+Mondal;Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=48&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;I'm+Sayan+Mondal;Data+Analyst" alt="Typing SVG" />
 </p>
 
-<h5>Transforming raw data into powerful insights 📈</h5>
+<p align="center">Transforming raw data into powerful insights 📈</p>
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 
 ---
 
@@ -17,7 +17,7 @@
 📈 Passionate about turning numbers into visual stories and smart decisions   
 🎯 Always curious, always exploring — open to **Data Analyst opportunities**
 
-<h3 align="center">My Toolkit</h3>
+<h2 align="center">My Toolkit</h2>
 
 ---
 
@@ -31,7 +31,7 @@
 | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-1f425f?style=for-the-badge&logo=matplotlib&logoColor=white&color=3C4E78) | Data Visualization |
 
 
-<h3 align="center">Connect With Me</h3>
+<h2 align="center">Connect With Me</h2>
 
 ---
 
@@ -54,7 +54,7 @@
 </p>
 
 
-<h3 align="center">Github Stats</h3>
+<h2 align="center">Github Stats</h2>
 
 ---
 
@@ -75,13 +75,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=analystsayan&theme=react-dark&area=true&hide_border=true" width="100%" style="border-radius:10px"/>
 </p> -->
 
-<h3 align="center">My Philosophy</h3>
+<h2 align="center">My Philosophy</h2>
 
 ---
 
 > “Data is not just numbers — it’s insight, it’s clarity, it’s opportunity.”
 
-<h3 align="center">Contact Me</h3>
+<h2 align="center">Contact Me</h2>
 
 ---
 
