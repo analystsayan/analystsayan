@@ -8,7 +8,7 @@
 <p align="center">Transforming raw data into powerful insights 📈</p>
 
 
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
 
 🎓 IT Engineer specialized in **Data Science**  
 🔍 I help convert raw data into clear, actionable insights  
@@ -17,7 +17,7 @@
 🎯 Always curious, always exploring — open to **Data Analyst opportunities**
 
 
-<h2 align="center">My Toolkit</h2>
+<h3 align="center">My Toolkit</h3>
 
 | Tools / Languages | What I Use It For |
 |-------------------|-------------------|
@@ -29,7 +29,7 @@
 | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-1f425f?style=for-the-badge&logo=matplotlib&logoColor=white&color=3C4E78) | Data Visualization |
 
 
-<h2 align="center">Connect With Me</h2>
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/analystsayan/" target="_blank">
@@ -50,7 +50,7 @@
 </p>
 
 
-<h2 align="center">Github Stats</h2>
+<h3 align="center">Github Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analystsayan&layout=compact&theme=radical&title_color=20C20E&text_color=ffffff" style="border:2px solid white; border-radius:14px"/>
@@ -72,7 +72,7 @@
 > “Data is not just numbers — it’s insight, it’s clarity, it’s opportunity.”
 
 
-<h2 align="center">Contact Me</h2>
+<h3 align="center">Contact Me</h3>
 
 If you want to work together, ask a question, or just say hi — feel free to reach out!
 
