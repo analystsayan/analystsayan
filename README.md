@@ -52,22 +52,11 @@
 
 <h3 align="center">Github Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analystsayan&layout=compact&theme=radical&title_color=20C20E&text_color=ffffff" style="border:2px solid white; border-radius:14px"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=analystsayan&show_icons=true&hide_border=true&count_private=true&theme=radical&title_color=20C20E&text_color=ffffff&icon_color=20C20E" style="border:2px solid white; border-radius:14px"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=analystsayan&theme=radical&hide_border=true&ring=20C20E&fire=20C20E&currStreakLabel=20C20E&sideNums=ffffff&sideLabels=ffffff" style="border-radius:10px"/>
 </p>
 
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=analystsayan&theme=react-dark&area=true&hide_border=true" width="100%" style="border-radius:10px"/>
-</p> -->
 
 > “Data is not just numbers — it’s insight, it’s clarity, it’s opportunity.”
 
