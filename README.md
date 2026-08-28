@@ -76,7 +76,7 @@
 
 If you want to work together, ask a question, or just say hi — feel free to reach out!
 
-📧 Email: analystsayan1@gmail.com  
+📧 Email: work.mondalsayan@gmail.com  
 📍 Kolkata, India
 
 ---
